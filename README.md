@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2024-12-07 145105](https://github.com/user-attachments/assets/9ee64110-c1cd-4a37-a88e-9dedfb1f2754)
+![Screenshot 2024-12-07 145458](https://github.com/user-attachments/assets/466d15f6-d7b2-4d3c-867c-fa58b3a45d7a)
+
 
 ### Name:GOKUL.G
 ### Register Number:24001755
